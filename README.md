@@ -18,7 +18,7 @@ Run the following command from the root of this directory
 ## Running Server Manually
 You can run the following command from the root of this repo to start the HTTP server:
 
-“`python3 main.py“`
+`python3 main.py`
 
 ## Running With Docker
 You can run the following command from the root of this repo to build and run the docker container for this code:
