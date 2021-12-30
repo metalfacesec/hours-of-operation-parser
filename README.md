@@ -6,7 +6,7 @@ Build an API with an endpoint which takes a single parameter, a date time string
 The CSV mentioned in the section above is in the 'data' directory at the root of this project and is named 'restaurants.csv'.
 
 ## Install Dependencies
-If you ate running this via docker you shouldn't need to run this step. If you are running it manually, run the following command in your terminal from the root of this project to install the dependencies.
+If you are running this via docker you shouldn't need to run this step. If you are running it manually, run the following command in your terminal from the root of this project to install the dependencies.
 
 `pip install -r requirements.txt`
 
