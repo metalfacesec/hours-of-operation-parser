@@ -13,7 +13,7 @@ If you are running this via docker you shouldn't need to run this step. If you a
 ## Running Tests
 Run the following command from the root of this directory
 
-`python3 -m unit test discover tests`
+`python3 -m unittest discover tests`
 
 ## Running Server Manually
 You can run the following command from the root of this repo to start the HTTP server:
